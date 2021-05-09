@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/Demorales1998/Demorales1998/blob/main/hand_wave.gif" width="30px">
+### Hi there <img src="https://github.com/Demorales1998/Demorales1998/blob/main/images/hand_wave.gif" width="30px">
 
 - I’m André, a software engineeer based in Braga, Portugal.
 - I graduated from University of Minho and now I am taking my master's in **Network management and virtualization** and **Cryptography and Information Security**
