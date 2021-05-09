@@ -5,8 +5,7 @@
 - I am currently focused on expanding my knowledge with new technologies and languages.
 
 ### Top Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demorales1998&layout=compact&theme=solarized-dark)](https://github.com/Demorales1998/)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demorales1998&layout=compact)](https://github.com/Demorales1998/)
 ----------------------------------------
 
 ### My Github Stats
@@ -25,3 +24,4 @@
 <a target="_blank" href="mailto:andre_morais98@hotmail.com">
   <img align="left" alt="Mail" width="30px" src="https://github.com/Zayts3v/Zayts3v/blob/main/Outlook.svg" />
 </a>
+
