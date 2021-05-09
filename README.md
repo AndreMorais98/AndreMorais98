@@ -7,3 +7,7 @@
 
 ### My Github Stats
 ![Demorales's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demorales&show_icons=true&theme=solarized-dark)
+----------------------------------------
+
+### Social Media
+
