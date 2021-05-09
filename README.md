@@ -5,6 +5,8 @@
 - I am currently focused on expanding my knowledge with new technologies and languages.
 
 ### Top Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demorales1998&layout=compact&theme=solarized-dark)](https://github.com/Demorales1998/)
+
 ----------------------------------------
 
 ### My Github Stats
