@@ -9,7 +9,8 @@
 ----------------------------------------
 
 ### My Github Stats
-![Demorales's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demorales&show_icons=true&theme=solarized-dark)
+[![Demorales's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demorales1998&show_icons=true&theme=solarized-dark)](https://github.com/Demorales1998/github-readme-stats)
+
 ----------------------------------------
 
 ### Social Media
