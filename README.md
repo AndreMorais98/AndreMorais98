@@ -5,11 +5,11 @@
 - I am currently focused on expanding my knowledge with new technologies and languages.
 
 ### Top Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demorales1998&layout=compact&theme=radical&langs_count=8)](https://github.com/Demorales1998/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMorais98&layout=compact&theme=radical&langs_count=8)](https://github.com/Demorales1998/)
 ----------------------------------------
 
 ### My Github Stats
-[![Demorales's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demorales1998&show_icons=true&theme=radical)](https://github.com/Demorales1998/)
+[![Demorales's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMorais98&show_icons=true&theme=radical)](https://github.com/Demorales1998/)
 
 ----------------------------------------
 
