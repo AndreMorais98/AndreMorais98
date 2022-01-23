@@ -1,15 +1,15 @@
-### Hi there <img src="https://github.com/Demorales1998/Demorales1998/blob/main/images/hand_wave.gif" width="30px">
+### Hi there <img src="https://github.com/AndreMorais98/AndreMorais98/blob/main/images/hand_wave.gif" width="30px">
 
 - I’m André, a software engineeer based in Braga, Portugal.
 - I graduated from University of Minho and now I am taking my master's in **Network management and virtualization** and **Cryptography and Information Security**
 - I am currently focused on expanding my knowledge with new technologies and languages.
 
 ### Top Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMorais98&layout=compact&theme=radical&langs_count=8)](https://github.com/Demorales1998/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMorais98&layout=compact&theme=radical&langs_count=8)](https://github.com/AndreMorais98/)
 ----------------------------------------
 
 ### My Github Stats
-[![Demorales's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMorais98&show_icons=true&theme=radical)](https://github.com/Demorales1998/)
+[![AndreMorais98's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMorais98&show_icons=true&theme=radical)](https://github.com/AndreMorais98/)
 
 ----------------------------------------
 
