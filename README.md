@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/AndreMorais98/AndreMorais98/blob/main/images/hand_wave.gif" width="10px">
 
-- I’m André, a software engineeer based in Braga, Portugal.
+- I’m André, a software engineeer based in Aarau, Switzerland.
 - I have a Master's degree from the University of Minho.
 - I am currently focused on expanding my knowledge with new technologies and languages.
 
