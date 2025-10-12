@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/AndreMorais98/AndreMorais98/blob/main/images/hand_wave.gif" width="10px">
+### Hi there <img src="https://github.com/AndreMorais98/AndreMorais98/blob/main/images/hand_wave.gif" width="100px">
 
 - I’m André, a software engineeer based in Aarau, Switzerland.
 - I have a Master's degree from the University of Minho.
